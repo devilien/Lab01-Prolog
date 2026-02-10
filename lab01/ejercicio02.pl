@@ -18,18 +18,13 @@ vuelo(medellin, barranquilla).
 vuelo(pasto, bogota).
 vuelo(bogota, pasto).
 
-% Pregunta uno
-% vuelo(bogota, medellin).
-% Si si hay vuelo directo 
+% Reglas
+conexion_escala(X, Y) :- 
+    vuelo(X, Z), 
+    vuelo(Z, Y).
 
-% Pregunta dos
-% vuelo(bogota, Destino).
-% a medellin, cartagena y pasto
+viaje(X, Y) :- vuelo(X, Y).
+viaje(X, Y) :- conexion_escala(X, Y).
 
-% Pregunta tres
-% vuelo(Origen, medellin).
-% a bogota
-
-% Pregunta cuatro
-% vuelo(_, cali).
-% falso
+destinos(Origen, Destino) :- 
+    vuelo(Origen, Destino).
