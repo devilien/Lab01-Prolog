@@ -1,0 +1,20 @@
+1. ¿Cuál fue el tiempo total invertido en el laboratorio por cada uno de ustedes? 
+Aproximadamente tres horas fuera de clase con algo de ayuda de ia ya que en clase se repaso mas sobre el anterior laboratorio y otras practicas para prolog.
+
+2. ¿Cuál es el estado actual del laboratorio? ¿Por qué?
+En teoria deberia ser funcional y completado en cuanto a los ejercicios propuestos en particular.
+
+3. ¿Cuál consideran fue el mayor logro? ¿Por qué?
+El mayor logro fue entender la estructura del dfs y entender que se puede aplicar a multiples instancias y situaciones por diferentes que suenen.
+
+4. ¿Cuál consideran que fue el mayor problema técnico? ¿Qué hicieron para resolverlo?
+El mayor reto fue para el ejercicio 3 respecto a las filas ya que entraba en errores o bucles y la solucion fue usar ia para entender el porque del error ... basicamente algo matematico en cuanto a las diagonales.
+
+5. ¿Qué hicieron bien como equipo? ¿Qué se comprometen a hacer para mejorar los resultados?
+Tal vez deberia haber mas documentacion del codigo y un mayor entendimiento a profundidad de todas las practicas y no solo mecanizar o seguir ejemplos.
+
+6. ¿Qué referencias usaron? ¿Cuál fue la más útil? Incluyan citas con estándares adecuados.
+La referencia más útil fue la documentación oficial de SWI-Prolog por su sección de ejemplos sobre el manejo de listas pero poco mas ... la ia.
+
+Referencias:
+SWI-Prolog. (2024). SWI-Prolog Manual. Recuperado de https://www.swi-prolog.org/pldoc/ (Referencia más útil).
