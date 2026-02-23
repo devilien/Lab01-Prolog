@@ -18,3 +18,12 @@ La referencia más útil fue la documentación oficial de SWI-Prolog por su secc
 
 Referencias:
 SWI-Prolog. (2024). SWI-Prolog Manual. Recuperado de https://www.swi-prolog.org/pldoc/ (Referencia más útil).
+
+
+PARTICIPANTES:
+
+- Juan David Cuella
+
+- Andrew Kevin Daza
+
+- Juan Sebastian Salazar
